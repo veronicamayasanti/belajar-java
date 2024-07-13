@@ -1,6 +1,6 @@
 public class SwitchStatement {
     public static void main(String[] args) {
-        var nilai = "A";
+        String nilai = "A";
 
         switch (nilai) {
             case "A":
